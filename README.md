@@ -1,2 +1,2 @@
-# RB-Dfr-720_Weatherproof_Ultrasonic_Sensor_with_Separate_Probe
-RB-Dfr-720 - Weatherproof Ultrasonic Sensor w/ Separate Probe
+# RB-Dfr-720 - Weatherproof Ultrasonic Sensor w/ Separate Probe
+Sample code for [RB-Dfr-720](http://www.robotshop.com/en/weatherproof-ultrasonic-sensor-separate-probe.html)
